@@ -1,0 +1,26 @@
+body {
+    background-color: #FFB6C1; /* Tonalidad salmon color pastel */
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+/* Puedes agregar estilos adicionales según sea necesario */
+
